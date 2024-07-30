@@ -1,0 +1,66 @@
+#banner_image{
+    padding-top: 75px;
+padding-bottom: 50px;
+margin-bottom: 20px;
+text-align: center;
+color:#f8f8f8;
+background: url("img2/image4.jpg") no-repeat center;
+background-size: cover;
+}
+#inner-banner-image{
+     padding-top: 12%;
+ width:80%;
+ margin:auto;
+}
+#banner_content{
+    position:relative;
+padding-top: 6%;
+padding-bottom: 6%;
+text-align:center;
+overflow:hidden;
+color: #f8f8f8;
+margin-bottom: 12%;
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 1000px;
+}
+#footer{ position: static;
+  bottom: 0px;  
+ padding: 10px;
+ background-color: #101010;
+ color:#999999; 
+
+}
+#cen{
+    padding-top: 75px;
+padding-bottom: 50px;
+margin-bottom: 20px;
+}
+#cent{
+    padding-top: 75px;
+padding-bottom: 50px;
+margin-bottom: 47px;
+}
+#cente{
+    padding-top: 75px;
+padding-bottom: 50px;
+margin-top: 75px;
+margin-bottom: 83px;
+}
+#ce{
+    padding-top: 75px;
+padding-bottom: 50px;
+margin-bottom: 320px;
+}
+#cet{
+    padding-top: 75px;
+padding-bottom: 50px;
+margin-bottom: 220px;
+}
+#c{
+    padding-top: 75px;
+padding-bottom: 50px;
+margin-bottom: 194px;
+}
+#row_style{
+    margin-top:10px;
+}
